@@ -32,7 +32,7 @@ export default {
         }
       },
       fontFamily: {
-        display: ['"Cormorant Garamond"', 'Georgia', 'serif'],
+        display: ['"DM Sans"', 'sans-serif'],
         body: ['"DM Sans"', 'sans-serif'],
       },
       animation: {

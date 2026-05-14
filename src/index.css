@@ -38,7 +38,7 @@ body {
 
 /* ─── Typography Helpers ───────────────────────────────── */
 .font-display {
-  font-family: 'Cormorant Garamond', Georgia, serif;
+  font-family: 'DM Sans', sans-serif;
 }
 
 /* ─── Green Gradient ───────────────────────────────────── */
@@ -66,10 +66,8 @@ section { position: relative; }
 
 /* ─── WhatsApp Button ──────────────────────────────────── */
 .whatsapp-btn {
-  position: fixed;
-  bottom: 28px;
-  right: 28px;
-  z-index: 999;
+  position: relative;
+  z-index: 2;
   width: 60px;
   height: 60px;
   border-radius: 50%;
