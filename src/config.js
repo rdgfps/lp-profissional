@@ -37,7 +37,7 @@ export const SITE_CONFIG = {
 
   // ── Imagens (substitua pelas URLs reais) ───────────────────
   heroImage:
-    'https://images.unsplash.com/photo-1588392382834-a891154bca4d?w=800&q=80',
+    'https://images.unsplash.com/photo-1585358682246-23acb1561f6b?q=80&w=462&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   aboutImage:
     'https://images.unsplash.com/photo-1594824476967-48c8b964273f?w=800&q=80',
 }
