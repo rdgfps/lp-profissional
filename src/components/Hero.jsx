@@ -22,7 +22,7 @@ export default function Hero() {
         }}
       />
 
-      <div className="relative max-w-6xl mx-auto px-5 py-28 md:py-0 grid md:grid-cols-2 gap-12 items-center w-full">
+      <div className="relative max-w-6xl mx-auto px-5 pt-28 pb-24 md:pt-32 md:pb-20 lg:pt-28 grid md:grid-cols-2 gap-12 items-center w-full">
         {/* Left — Text */}
         <div className="order-2 md:order-1">
           {/* Badge */}
